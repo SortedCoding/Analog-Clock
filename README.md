@@ -4,7 +4,7 @@ In this tutorial ([Open in Youtube](https://youtu.be/TaVklQmnPmo)), I'm going to
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.png)
 
 # snakecoding_12
 
